@@ -1,3 +1,3 @@
 # Caption-Generator-AMMI
 
-Generating Caption from Images AMMI presentation
+Image Caption Generation project using Flickr datasets  for African Masters of Machine Intelligence
